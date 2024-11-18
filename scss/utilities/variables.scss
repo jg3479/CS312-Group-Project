@@ -1,0 +1,54 @@
+//Palette
+
+//Text
+//Body Text Black Color: #000000
+//The color of the main text is white: #FFFFFF
+//Footer text color: #545454
+//Accent Text Color: #FF6B08
+//Movie Card Characteristics Text Color: #8C8C8C
+//Warning text color: #FF001B
+
+//Background
+//Header Background Color Black: #000000
+//Header Background Color Grey: #818181
+//Main background color: #FFFFFF
+//Rating Background Color: #FF6B01
+//Voice Background Color: #F7F7F7
+//Footer Background Color: #F7F7F7
+
+//Buttons
+//Active Button Color: #FF6B01
+//Arrow Button Color: #F7F7F7
+//Button Frame Color: Black: #000000
+//Button Frame Color White: #FFFFFF
+
+//Accent Color: #FF6B08
+
+// Font
+$basic-font: 'Roboto', sans-serif;
+
+// Colors
+// Main and Accent colors
+$accent-color: #ff6b08;
+$primary-white-color: #ffffff;
+$primary-black-color: #000000;
+
+// Text colors
+$footer-text-color: #545454;
+$card-info-text-color: #8c8c8c;
+$warning-text-color: #ff001b;
+
+// Background colors
+$bg-header-grey-color: #818181;
+$bg-rate-color: #ff6b01;
+$bg-votes-color: #f7f7f7;
+$bg-footer-color: #f7f7f7;
+
+// Buttons
+$btn-active-color: #ff6b01;
+$btn-arrow-color: #f7f7f7;
+
+// Breakpoints
+$mobile: 320px;
+$tablet: 768px;
+$desktop: 1024px;
